@@ -30,7 +30,7 @@ const Index = () => {
             Welcome to Paros Villa Hub
           </h1>
           <p className="text-lg md:text-xl text-white/90 mb-10 max-w-2xl mx-auto leading-relaxed font-light">
-            Your private gateway to authentic island living in Paros & AntiParos. Handpicked villas, premium holiday homes, and seamless booking, all in one place.
+            Your private gateway to authentic island living in Paros & Antiparos. Handpicked villas, premium holiday homes, and seamless booking, all in one place.
           </p>
           <Button
             size="lg"
@@ -47,7 +47,7 @@ const Index = () => {
       <section id="intro" className="py-24 md:py-32 px-6">
         <FadeSection className="max-w-3xl mx-auto text-center">
           <p className="text-lg md:text-xl leading-relaxed text-foreground/80">
-            Discover a handpicked collection of luxury villas and vacation rentals across Paros & AntiParos, crafted for travelers who appreciate comfort, privacy, and meaningful island experiences.
+            Discover a handpicked collection of luxury villas and vacation rentals across Paros & Antiparos, crafted for travelers who appreciate comfort, privacy, and meaningful island experiences.
             From tranquil countryside retreats and breathtaking seafront escapes to exclusive villas suited for unforgettable holidays, destination weddings, private celebrations, bachelor and bachelorette getaways, or even for location scouting, Paros Villa Hub connects you with the perfect setting, effortlessly, confidently, and with true local insight.
           </p>
         </FadeSection>
@@ -65,7 +65,7 @@ const Index = () => {
             {[
               { icon: Home, title: "Private Villas", desc: "Enjoy complete privacy, stunning views, and thoughtfully designed spaces that feel like your own island home." },
               { icon: ConciergeBell, title: "Concierge Services", desc: "From private chefs and transfers to reservations and local tips, we take care of every detail." },
-              { icon: Compass, title: "Island Experiences", desc: "Boat trips, snorkeling, cultural tours, and hidden gems, discover Paros & AntiParos beyond the ordinary." },
+              { icon: Compass, title: "Island Experiences", desc: "Boat trips, snorkeling, cultural tours, and hidden gems, discover Paros & Antiparos beyond the ordinary." },
               { icon: Waves, title: "Private Pools & Sea Views", desc: "Relax by your private pool, enjoy sunsets over the Aegean, and embrace effortless summer living." },
             ].map(({ icon: Icon, title, desc }, i) => (
               <FadeSection key={title}>
