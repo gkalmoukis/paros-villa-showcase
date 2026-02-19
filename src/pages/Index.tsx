@@ -207,7 +207,7 @@ const Index = () => {
             </a>
           </div>
           <p className="text-center text-primary-foreground/40 text-xs">
-            © 2025 Paros Villa Hub. All rights reserved.
+            © 2026 Paros Villa Hub. All rights reserved.
           </p>
         </div>
       </footer>
